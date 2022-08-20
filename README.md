@@ -24,11 +24,11 @@ Visit the deployed website here: [LetsGoSEA]
 - **Advisors**
   - Mike Mckee, Seattle University Faculty 
 - **Dev Team**
-  - Nuri Bang
-  - Evan Marshall
-  - Nirmalya Ghosh
-  - Narissa Tsuboi
   - Zi Wang
+  - Nirmalya Ghosh
+  - Nuri Bang
+  - Narissa Tsuboi
+  - Evan Marshall
 
 ## License
 MIT
